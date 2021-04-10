@@ -1,0 +1,16 @@
+pickle
+
+os
+
+glob
+
+numpy version=1.19.5
+
+sklearn version=0.22.2.post1
+
+matplotlib version=3.2.2
+
+cv2 version=4.1.2
+
+keras version=2.4.3
+
